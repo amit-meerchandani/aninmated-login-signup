@@ -38,7 +38,7 @@ Here are some screenshots of the project:
 
 ## Deployment
 
-This project is deployed using GitHub Pages. You can visit the live site [here](https://amit-meerchandani.github.io/aninmated-login-signup/#).
+This project is deployed using GitHub Pages. You can visit the live site [here](https://amit-(https://amit-meerchandani.github.io/light-animation-sign-in/#).
 
 ## Installation
 
